@@ -1,0 +1,24 @@
+src/main/java/DiningExperienceManager.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/DiningExperienceManager.java:3:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/DiningExperienceManager.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/DiningExperienceManager.java:4:	NPathComplexity:	NPathComplexity: The method 'main(String[])' has an NPath complexity of 11808, current threshold is 200
+src/main/java/DiningExperienceManager.java:5:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/main/java/DiningExperienceManager.java:15:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:17:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:21:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:25:	AvoidReassigningLoopVariables:	AvoidReassigningLoopVariables: Avoid reassigning the loop control variable 'i'
+src/main/java/DiningExperienceManager.java:31:	CollapsibleIfStatements:	CollapsibleIfStatements: This if statement could be combined with its parent
+src/main/java/DiningExperienceManager.java:32:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:47:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:51:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:54:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:56:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:62:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:66:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:68:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:69:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:72:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'totalCost' is never used
